@@ -1,0 +1,21 @@
+.everything{
+    display:flex;
+    justify-content:space-around;
+}
+
+img {
+    width: 50px;
+}
+.heading{
+    background-color:pink;
+}
+.clickme{
+     display:flex;
+     justify-content:space-around;
+}
+.bubba{
+    background-color:purple;
+    justify-content:space-around;
+    display:flex;
+}
+
